@@ -12,11 +12,11 @@ You'll have to download the notebook and run it. Or you can go to your Kaggle ac
 <h2 align="center">Interactive Map 2</h2>
 
 <p align="center">
-  hJrDinh/Geospatial-Analysis-of-Victoria-Property-Prices/blob/main/Images/Interactive%20Map%202%20Median%20House%20Price%20Change.png?raw=true" width="1000">
+  <img src="https://github.com/MinhJrDinh/Geospatial-Analysis-of-Victoria-Property-Prices/blob/main/Images/Interactive%20Map%202%20Median%20House%20Price%20Change.png?raw=true" width="1000">
 </p>
 
 <h2 align="center">Top 10 Suburbs Explorer</h2>
 
 <p align="center">
-  <img src="https://github.com/MinhJrDinh/Geospatial-Analysis-of-Victoria-Property-Prices/blob/main/Images/Top%2010%20Suburb%20Housepng?raw=true
+  <img src="https://github.com/MinhJrDinh/Geospatial-Analysis-of-Victoria-Property-Prices/blob/main/Images/Top%2010%20Suburb%20House%20Filter.png?raw=true" width="1000">
 </p>
